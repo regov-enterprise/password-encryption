@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/password-encryption/static/css/main.766b0ea4.chunk.css",
+    "main.js": "/password-encryption/static/js/main.f49a503c.chunk.js",
+    "main.js.map": "/password-encryption/static/js/main.f49a503c.chunk.js.map",
+    "runtime-main.js": "/password-encryption/static/js/runtime-main.7bc9ecfd.js",
+    "runtime-main.js.map": "/password-encryption/static/js/runtime-main.7bc9ecfd.js.map",
+    "static/css/2.e10332d9.chunk.css": "/password-encryption/static/css/2.e10332d9.chunk.css",
+    "static/js/2.6b45a353.chunk.js": "/password-encryption/static/js/2.6b45a353.chunk.js",
+    "static/js/2.6b45a353.chunk.js.map": "/password-encryption/static/js/2.6b45a353.chunk.js.map",
+    "index.html": "/password-encryption/index.html",
+    "precache-manifest.2bbcfa8c883473aab404f728a846174e.js": "/password-encryption/precache-manifest.2bbcfa8c883473aab404f728a846174e.js",
+    "service-worker.js": "/password-encryption/service-worker.js",
+    "static/css/2.e10332d9.chunk.css.map": "/password-encryption/static/css/2.e10332d9.chunk.css.map",
+    "static/css/main.766b0ea4.chunk.css.map": "/password-encryption/static/css/main.766b0ea4.chunk.css.map",
+    "static/js/2.6b45a353.chunk.js.LICENSE.txt": "/password-encryption/static/js/2.6b45a353.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bc9ecfd.js",
+    "static/css/2.e10332d9.chunk.css",
+    "static/js/2.6b45a353.chunk.js",
+    "static/css/main.766b0ea4.chunk.css",
+    "static/js/main.f49a503c.chunk.js"
+  ]
+}
