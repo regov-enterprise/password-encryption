@@ -1,0 +1,16 @@
+{
+    "cSpell.words": [
+      "antd",
+      "plusplus"
+    ],
+    "editor.formatOnSave": true,
+    "javascript.preferences.importModuleSpecifier": "relative",
+    "javascript.preferences.quoteStyle": "double",
+    "npm-intellisense.importQuotes": "\"",
+    "typescript.preferences.importModuleSpecifier": "relative",
+    "typescript.preferences.quoteStyle": "double",
+    "typescriptHero.imports.multiLineWrapThreshold": 140,
+    "typescriptHero.imports.organizeOnSave": true,
+    "typescriptHero.imports.stringQuoteStyle": "\""
+  }
+  
