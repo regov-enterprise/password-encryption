@@ -11,6 +11,21 @@
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
     "strict": true,
+    "noImplicitAny": true,                    
+    "strictNullChecks": true,                 
+    "strictFunctionTypes": true,              
+    "strictPropertyInitialization": true,     
+    "noImplicitThis": true,                   
+    "alwaysStrict": true,                     
+
+    "noUnusedLocals": true,                  
+    "noUnusedParameters": true,              
+    "noImplicitReturns": true,               
+    "noFallthroughCasesInSwitch": true,      
+    
+    "baseUrl": "./",
+    "typeRoots": ["./types/"],
+
     "forceConsistentCasingInFileNames": true,
     "module": "esnext",
     "moduleResolution": "node",
@@ -19,7 +34,11 @@
     "noEmit": true,
     "jsx": "react"
   },
+  "exclude": [
+    "node_modules", 
+  ],
   "include": [
-    "src"
+    "src",
+    "types"
   ]
 }
